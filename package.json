@@ -155,13 +155,13 @@
     "ease-component": "latest",
     "lodash.clonedeep": "^4.3.0",
     "lodash.debounce": "^4.0.3",
-    "nanotimer": "0.3.10",
+    "nanotimer": "0.3.15",
     "temporal": "latest"
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
     "firmata": "^2.0.0",
-    "serialport": "^7.1.5"
+    "serialport": "^12.0.0"
   },
   "devDependencies": {
     "async": "^2.6.3",
