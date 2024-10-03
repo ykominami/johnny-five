@@ -155,7 +155,7 @@
     "ease-component": "latest",
     "lodash.clonedeep": "^4.3.0",
     "lodash.debounce": "^4.0.3",
-    "nanotimer": "0.3.10",
+    "nanotimer": "0.3.15",
     "temporal": "latest"
   },
   "optionalDependencies": {
