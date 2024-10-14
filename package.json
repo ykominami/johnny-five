@@ -186,7 +186,7 @@
     "mock-firmata": "latest",
     "nyc": "^15.1.0",
     "optimist": "^0.6.1",
-    "sinon": "~1.10.2",
+    "sinon": "~19.0.2",
     "underscore": ">=1.12.1",
     "underscore.string": ">=3.3.5",
     "websocket-extensions": ">=0.1.4"
