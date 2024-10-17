@@ -151,7 +151,7 @@
   "main": "lib/johnny-five",
   "dependencies": {
     "chalk": "5.3.0",
-    "color-convert": "~1.2.2",
+    "color-convert": "~2.0.1",
     "ease-component": "latest",
     "lodash.clonedeep": "^4.3.0",
     "lodash.debounce": "^4.0.3",
