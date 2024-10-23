@@ -184,7 +184,7 @@
     "lodash": ">=4.17.21",
     "minimist": ">=1.2.3",
     "mock-firmata": "latest",
-    "nyc": "^15.1.0",
+    "nyc": "^17.1.0",
     "optimist": "^0.6.1",
     "sinon": "~19.0.2",
     "underscore": ">=1.12.1",
